@@ -5,6 +5,7 @@ import random
 sys.path.append('../')
 
 from filefuncs import *
+from memory import *
 
 class Agent: 
   def __init__(self, name, bio, memfile):
