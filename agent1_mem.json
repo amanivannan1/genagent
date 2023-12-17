@@ -2,7 +2,7 @@
 	"name": "Van Winkle",
 	"age": "30 years old",
 	"innate": "angry, hungry",
-	"currently": "sleeping",
+	"currently": "Van Winkle is waking up in the morning.",
 	"lifestyle": "Van Winkle likes to eat. He likes to cook. He likes to invite friends to dinner.",
 	"living_area": "apartment",
 	"daily_req": ["Cook pasta.",

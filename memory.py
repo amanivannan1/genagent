@@ -3,7 +3,6 @@ sys.path.append('../../')
 
 import json
 import datetime
-
 from filefuncs import *
 
 class MemoryTree:
