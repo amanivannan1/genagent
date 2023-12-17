@@ -1,0 +1,22 @@
+{
+	"name": "Van Winkle",
+	"age": "30 years old",
+	"innate": "angry, hungry",
+	"currently": "sleeping",
+	"lifestyle": "Van Winkle likes to eat. He likes to cook. He likes to invite friends to dinner.",
+	"living_area": "apartment",
+	"daily_req": ["Cook pasta.",
+				  "Watch TV.",
+				   "Call the bank."],
+	"curr_time": null,
+	"daily_plan_req": ["Wake up at 8 AM and cook breakfast for 30 minutes.",
+						"Shower for 30 minutes.",
+						"Go to work for 480 minutes.",
+						"Cook dinner for 60 minutes.",
+						"Read book for 120 minutes",
+						"Sleep for 720 minutes"],
+	"past_action_summary": [],
+	"act_address": "bedroom",
+	"act_duration": "5 minutes",
+	"act_description": "Sleeping in bedroom." 
+}
